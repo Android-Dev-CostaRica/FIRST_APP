@@ -1,1 +1,1 @@
-# FIRST_APP
+# Project to test in android tutorial
